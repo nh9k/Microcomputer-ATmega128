@@ -8,7 +8,7 @@
 |[2. Switch debouncing](#2-switch-debouncing)||
 |[3. 7-Segment LED display](#3-7-segment-led-display)||
 |[4. Control motor velocity using PWM](#4-control-motor-velocity-using-pwm)||
-|[5. LCD display and print float type](#5-lcd-display-and-print-float-type)||
+|[5. LCD display and print float type](#5-lcd-display-and-print-float-type)|[Detail report](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/5-LCD-display-and-print-float-type/5-LCD-Reportfile.pdf)|
 |[6. USART serial communication](#6-usart-serial-communication)|[Detail report](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/6-USART-serial-communication/6-USART-Reportfile.pdf)|
 |[7. Rhythm game using Ultrasonic sensor](#7-rhythm-game-using-ultrasonic-sensor)|[Detail report](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/7-Rhythm-game-using-Ultrasonic-sensor/Rhythm-game-Reportfile.pdf)|
 |[8. Author](#8-author)|[All Demo video](https://blog.naver.com/kimnanhee97/221847029738)|
@@ -29,7 +29,7 @@
 **[Full Demo video Link](https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=0FF636ABF0A9DC5567B43C2EA90D5CE167C2&outKey=V12107dbf2e4648a5afc75ee249d9bdd3f46e7fd8068a80eccde05ee249d9bdd3f46e&width=544&height=306)**  
 
 
-**See [pdf file](#) for details in folder 5-LCD-display-and-print-float-type**  
+**See [pdf file](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/5-LCD-display-and-print-float-type/5-LCD-Reportfile.pdf) for details in folder 5-LCD-display-and-print-float-type**  
 
 ## 6. USART serial communication
 
