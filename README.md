@@ -19,6 +19,12 @@
 ## 4. Control motor velocity using PWM
 ## 5. LCD display and print float type
 ## 6. USART serial communication
+
+**[Full Demo video Link](https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=FF16E407DCCD34D582C2C10964006B52B35C&outKey=V124f3d035867b5c8ac9766fb526a2c868b1e404e0324d1904be966fb526a2c868b1e&width=544&height=306)
+![demo-short](https://user-images.githubusercontent.com/56310078/79135647-a6a6f400-7dea-11ea-92fa-b635e3ef9372.gif)
+
+**See pdf file for details in folder 6-USART-serial-communication**
+
 ## 7. Rhythm game using Ultrasonic sensor
 
 
@@ -32,12 +38,12 @@
 |![1](https://user-images.githubusercontent.com/56310078/79130420-e6b5a900-7de1-11ea-9e1b-0f7b8cf02a26.jpg)|![2](https://user-images.githubusercontent.com/56310078/79130421-e7e6d600-7de1-11ea-95a1-5c7cedfc4f28.png)|
 
 **driving ultrasonic sensor**  
-1.Input 10us length pulse through TRIGGER pin  
+1. Input 10us length pulse through TRIGGER pin  
 2. The sensor transmits ultrasonic waves toward the front  
 3. Calculate the length of time that the ultrasonic wave reflected by the object  
 4. The ECHO pin outputs a pulse proportional to the length of time.  
 
-**[Demo video](https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=F95B2AEE791F629FB60157707F7CE007402B&outKey=V12712b22900b00ecdc5157aa820458275cd72f5cc2f7010330da57aa820458275cd7&width=544&height=306)**  
+**[Full Demo video Link](https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=F95B2AEE791F629FB60157707F7CE007402B&outKey=V12712b22900b00ecdc5157aa820458275cd72f5cc2f7010330da57aa820458275cd7&width=544&height=306)**  
 ![demo-short](https://user-images.githubusercontent.com/56310078/79133356-da801a80-7de6-11ea-8140-8906e32a1719.gif)
 
 **See [pdf file](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/7-Rhythm-game-using-Ultrasonic-sensor/Rhythm-game-Reportfile.pdf) for details in folder 7-Rhythm-game-using-Ultrasonic-sensor**
