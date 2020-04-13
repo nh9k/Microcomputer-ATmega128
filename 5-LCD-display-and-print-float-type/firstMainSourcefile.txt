@@ -1,0 +1,34 @@
+#include   <stdio.h>
+#include   <avr/io.h>
+
+#define   F_CPU   8000000
+#include   <util/delay.h>
+#include   "lcd.h"
+
+// 전역변수 선언
+long    a = 0, b = 0;
+double    x = 0., y = 0.;
+
+//////////////////////////////////////////////////////////////
+int   main(void)
+{   // 지역 변수 선언
+   char lcd_string[2][MAX_LCD_STRING];
+
+   LCD_init();
+
+   while(1){
+      a = a + 1;
+      b = b + 2;
+
+      x += 0.1;
+      y += 0.2;
+
+      sprintf(lcd_string[0], "A=%-5ld B=%-5ld", a, b);
+      LCD_str_write(0, 0, lcd_string[0]);
+
+      sprintf(lcd_string[1], "X=%-5.1f Y=%-5.1f   ", x, y);
+      LCD_str_write(1, 0, lcd_string[1]);
+      _delay_ms(1000);
+   }
+   return 0;
+}

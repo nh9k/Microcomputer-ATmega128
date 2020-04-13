@@ -11,13 +11,26 @@
 |[5. LCD display and print float type](#5-lcd-display-and-print-float-type)||
 |[6. USART serial communication](#6-usart-serial-communication)|[Detail report](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/6-USART-serial-communication/6-USART-Reportfile.pdf)|
 |[7. Rhythm game using Ultrasonic sensor](#7-rhythm-game-using-ultrasonic-sensor)|[Detail report](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/7-Rhythm-game-using-Ultrasonic-sensor/Rhythm-game-Reportfile.pdf)|
-
+|[8. Author](#8-author)|[All Demo video](https://blog.naver.com/kimnanhee97/221847029738)|
 
 ## 1. LED on-off
 ## 2. Switch debouncing
 ## 3. 7-Segment LED display
 ## 4. Control motor velocity using PWM
 ## 5. LCD display and print float type
+
+**Schematic**
+![figure1](https://user-images.githubusercontent.com/56310078/79136685-621c5800-7dec-11ea-89fd-7f95d4c0df86.png)
+
+|Potentiometer|3362 Series (50k ohm) 3362P-1-503|
+|---|---|
+|![figure2](https://user-images.githubusercontent.com/56310078/79136689-634d8500-7dec-11ea-9a15-ded6921b30d0.png)|![figure3](https://user-images.githubusercontent.com/56310078/79136692-63e61b80-7dec-11ea-8583-30ce20e0c998.png)|
+
+**[Full Demo video Link](https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=0FF636ABF0A9DC5567B43C2EA90D5CE167C2&outKey=V12107dbf2e4648a5afc75ee249d9bdd3f46e7fd8068a80eccde05ee249d9bdd3f46e&width=544&height=306)**  
+
+
+**See [pdf file](#) for details in folder 5-LCD-display-and-print-float-type**  
+
 ## 6. USART serial communication
 
 **[Full Demo video Link](https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=FF16E407DCCD34D582C2C10964006B52B35C&outKey=V124f3d035867b5c8ac9766fb526a2c868b1e404e0324d1904be966fb526a2c868b1e&width=544&height=306)**  
@@ -51,5 +64,5 @@
 **See [pdf file](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/7-Rhythm-game-using-Ultrasonic-sensor/Rhythm-game-Reportfile.pdf) for details in folder 7-Rhythm-game-using-Ultrasonic-sensor**
 
 
-## 5. Author
+## 8. Author
 Nanhee Kim / [@nh9k ](https://github.com/nh9k) / [PersonalBlog](https://blog.naver.com/kimnanhee97)
