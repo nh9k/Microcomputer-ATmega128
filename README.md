@@ -16,7 +16,34 @@
 ## 1. LED on-off
 ## 2. Switch debouncing
 ## 3. 7-Segment LED display
+
+**Schematic**  
+![figure1](https://user-images.githubusercontent.com/56310078/79276292-bb66b300-7ee2-11ea-9d11-a3e3af0ca072.png)
+
+|7-Segment|Common Anode Type|S-5263ASR1|
+|---|---|---|
+|![figure2](https://user-images.githubusercontent.com/56310078/79276300-bd307680-7ee2-11ea-9997-f4a99b3496b7.png)|![figure3](https://user-images.githubusercontent.com/56310078/79276305-bdc90d00-7ee2-11ea-90ea-a984ed135cd9.png)|![figure4](https://user-images.githubusercontent.com/56310078/79276309-be61a380-7ee2-11ea-9852-69c6a2b1036f.png)|   
+
+|Transistor||MPS2907A|
+|---|---|---|
+|![figure5](https://user-images.githubusercontent.com/56310078/79276311-be61a380-7ee2-11ea-9893-a76861f92e89.png)|![figure6](https://user-images.githubusercontent.com/56310078/79276315-befa3a00-7ee2-11ea-9dfc-32fc3ef6c9be.png)|![figure7](https://user-images.githubusercontent.com/56310078/79276317-befa3a00-7ee2-11ea-8552-20aba60d085f.png)|
+
+**[Full Demo video Link](https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=2722AF99EF7D1581E586FE15C28C08CD95CD&outKey=V1210cf905e6d5085454cded0b06bbc892e14c49e0bd6793f1a84ded0b06bbc892e14&width=544&height=306)**  
+![short-demo](https://user-images.githubusercontent.com/56310078/79276875-b6563380-7ee3-11ea-89a3-377d67822083.gif)
+
+**See [pdf file](#) for details in foler `3-7-Segment-LED-display`**
+
 ## 4. Control motor velocity using PWM
+
+|Driving motor|Schematic for 7 Segment|
+|---|---|
+|![figure2](https://user-images.githubusercontent.com/56310078/79275025-69249280-7ee0-11ea-9cf3-76d8aac0a691.png)|![figure1](https://user-images.githubusercontent.com/56310078/79275022-688bfc00-7ee0-11ea-8e54-5a2de54095b8.png)|
+
+**[Full Demo video Link](https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=470622877CD84642DBDFEC25CE200635557F&outKey=V12866437910e650e9b759039a26491935ecc3dd0462b46e33e729039a26491935ecc&width=544&height=306)**  
+![frame_242](https://user-images.githubusercontent.com/56310078/79275624-8017b480-7ee1-11ea-8695-904cc9a62110.gif)
+
+**See [pdf file](#) for details in foloder 4-Control-motor-velocity-using-PWM**
+
 ## 5. LCD display and print float type
 
 **Schematic**
@@ -27,7 +54,7 @@
 |![figure2](https://user-images.githubusercontent.com/56310078/79136689-634d8500-7dec-11ea-9a15-ded6921b30d0.png)|![figure3](https://user-images.githubusercontent.com/56310078/79136692-63e61b80-7dec-11ea-8583-30ce20e0c998.png)|
 
 **[Full Demo video Link](https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=0FF636ABF0A9DC5567B43C2EA90D5CE167C2&outKey=V12107dbf2e4648a5afc75ee249d9bdd3f46e7fd8068a80eccde05ee249d9bdd3f46e&width=544&height=306)**  
-
+![frame](https://user-images.githubusercontent.com/56310078/79276022-367b9980-7ee2-11ea-90d9-599908c47695.gif)
 
 **See [pdf file](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/5-LCD-display-and-print-float-type/5-LCD-Reportfile.pdf) for details in folder 5-LCD-display-and-print-float-type**  
 
