@@ -6,8 +6,8 @@
 |---|---|
 |[1. LED on-off](#1-led-on-off)||
 |[2. Switch debouncing](#2-switch-debouncing)||
-|[3. 7-Segment LED display](#3-7-segment-led-display)||
-|[4. Control motor velocity using PWM](#4-control-motor-velocity-using-pwm)||
+|[3. 7-Segment LED display](#3-7-segment-led-display)|[Detail report](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/3-7-Segment-LED-display/3.%207-Segment%20LED%20display.pdf)|
+|[4. Control motor velocity using PWM](#4-control-motor-velocity-using-pwm)|[Detail report](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/4-Control-motor-velocity-using-PWM/4-Control-motor-velocity-using-PWM.pdf)|
 |[5. LCD display and print float type](#5-lcd-display-and-print-float-type)|[Detail report](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/5-LCD-display-and-print-float-type/5-LCD-Reportfile.pdf)|
 |[6. USART serial communication](#6-usart-serial-communication)|[Detail report](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/6-USART-serial-communication/6-USART-Reportfile.pdf)|
 |[7. Rhythm game using Ultrasonic sensor](#7-rhythm-game-using-ultrasonic-sensor)|[Detail report](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/7-Rhythm-game-using-Ultrasonic-sensor/Rhythm-game-Reportfile.pdf)|
@@ -31,7 +31,7 @@
 **[Full Demo video Link](https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=2722AF99EF7D1581E586FE15C28C08CD95CD&outKey=V1210cf905e6d5085454cded0b06bbc892e14c49e0bd6793f1a84ded0b06bbc892e14&width=544&height=306)**  
 ![short-demo](https://user-images.githubusercontent.com/56310078/79276875-b6563380-7ee3-11ea-89a3-377d67822083.gif)
 
-**See [pdf file](#) for details in foler `3-7-Segment-LED-display`**
+**See [pdf file](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/3-7-Segment-LED-display/3.%207-Segment%20LED%20display.pdf) for details in folder `3-7-Segment-LED-display`**
 
 ## 4. Control motor velocity using PWM
 
@@ -42,7 +42,7 @@
 **[Full Demo video Link](https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=470622877CD84642DBDFEC25CE200635557F&outKey=V12866437910e650e9b759039a26491935ecc3dd0462b46e33e729039a26491935ecc&width=544&height=306)**  
 ![frame_242](https://user-images.githubusercontent.com/56310078/79275624-8017b480-7ee1-11ea-8695-904cc9a62110.gif)
 
-**See [pdf file](#) for details in foloder 4-Control-motor-velocity-using-PWM**
+**See [pdf file](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/4-Control-motor-velocity-using-PWM/4-Control-motor-velocity-using-PWM.pdf) for details in folder `4-Control-motor-velocity-using-PWM`**
 
 ## 5. LCD display and print float type
 
@@ -64,7 +64,7 @@
 
 ![demo-short](https://user-images.githubusercontent.com/56310078/79135647-a6a6f400-7dea-11ea-92fa-b635e3ef9372.gif)
 
-**See [pdf file](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/6-USART-serial-communication/6-USART-Reportfile.pdf) for details in folder 6-USART-serial-communication**
+**See [pdf file](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/6-USART-serial-communication/6-USART-Reportfile.pdf) for details in folder `6-USART-serial-communication`**
 
 ## 7. Rhythm game using Ultrasonic sensor
 
@@ -88,7 +88,7 @@
 
 ![demo-short](https://user-images.githubusercontent.com/56310078/79133356-da801a80-7de6-11ea-8140-8906e32a1719.gif)
 
-**See [pdf file](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/7-Rhythm-game-using-Ultrasonic-sensor/Rhythm-game-Reportfile.pdf) for details in folder 7-Rhythm-game-using-Ultrasonic-sensor**
+**See [pdf file](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/7-Rhythm-game-using-Ultrasonic-sensor/Rhythm-game-Reportfile.pdf) for details in folder `7-Rhythm-game-using-Ultrasonic-sensor`**
 
 
 ## 8. Author
