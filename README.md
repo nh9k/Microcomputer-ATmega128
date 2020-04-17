@@ -4,8 +4,8 @@
 
 |||
 |---|---|
-|[1. LED on-off](#1-led-on-off)||
-|[2. Switch debouncing](#2-switch-debouncing)||
+|[1. LED on-off](#1-led-on-off)|[Detail report](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/1-LED-on-off/1-LED-on-off.pdf)|
+|[2. Switch debouncing](#2-switch-debouncing)|[Detail report](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/2-Switch-debouncing/2-Switch-debouncing.pdf)|
 |[3. 7-Segment LED display](#3-7-segment-led-display)|[Detail report](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/3-7-Segment-LED-display/3.%207-Segment%20LED%20display.pdf)|
 |[4. Control motor velocity using PWM](#4-control-motor-velocity-using-pwm)|[Detail report](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/4-Control-motor-velocity-using-PWM/4-Control-motor-velocity-using-PWM.pdf)|
 |[5. LCD display and print float type](#5-lcd-display-and-print-float-type)|[Detail report](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/5-LCD-display-and-print-float-type/5-LCD-Reportfile.pdf)|
@@ -14,7 +14,27 @@
 |[8. Author](#8-author)|[All Demo video](https://blog.naver.com/kimnanhee97/221847029738)|
 
 ## 1. LED on-off
+
+1. Just on/off LED
+2. Using Interrupt for on/off LED  
+![figure1](https://user-images.githubusercontent.com/56310078/79585373-ad937680-810a-11ea-8339-ec56df92bf73.png)   
+
+**[Full Demo video Link](https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=DCA537E5669DC44F3F90CA28F2899DA55244&outKey=V125e91609d591d6ca5475d241b37b14007b5d91738df1bc823c75d241b37b14007b5&width=544&height=306)**  
+**See [pdf file]() for details in folder `1-LED-on-off`**  
+
 ## 2. Switch debouncing
+
+|Measure the phenomenon|Bounce|
+|---|---|
+|![figure1](https://user-images.githubusercontent.com/56310078/79584566-88eacf00-8109-11ea-9627-292841ef5f79.png)|![figure2](https://user-images.githubusercontent.com/56310078/79584577-8be5bf80-8109-11ea-89e7-15dafcbe7696.png)|
+
+**Debouncing**
+1. Using Delay - Software way
+2. Using Capacior - Hardware way
+
+**[Full Demo video Link](https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=691CCECBED56E0EA05FE1B6811099841C5E0&outKey=V1299abd73f00b54d60a4062e833f97b7da2eadf972d751ed849d062e833f97b7da2e&width=544&height=306)**    
+**See [pdf file](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/2-Switch-debouncing/2-Switch-debouncing.pdf) for details in folder `2-Switch-debouncing`**
+
 ## 3. 7-Segment LED display
 
 **Schematic**  
