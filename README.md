@@ -20,7 +20,7 @@
 ![figure1](https://user-images.githubusercontent.com/56310078/79585373-ad937680-810a-11ea-8339-ec56df92bf73.png)   
 
 **[Full Demo video Link](https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=DCA537E5669DC44F3F90CA28F2899DA55244&outKey=V125e91609d591d6ca5475d241b37b14007b5d91738df1bc823c75d241b37b14007b5&width=544&height=306)**  
-**See [pdf file]() for details in folder `1-LED-on-off`**  
+**See [pdf file](https://github.com/nh9k/Microcomputer-ATmega128/blob/master/1-LED-on-off/1-LED-on-off.pdf) for details in folder `1-LED-on-off`**  
 
 ## 2. Switch debouncing
 
